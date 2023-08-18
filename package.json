@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/xpengli/format-utils.git"
   },
-  "keywords": [],
+  "keywords": ["format"],
   "author": "",
   "license": "ISC"
 }
